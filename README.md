@@ -1,4 +1,3 @@
-# AdultFilmDatabase-PlexAgent
 # Adult Film Database (AFDB) Plex Agent
 **Created and Constructed by: Lucy May & G. Antidote**
 
